@@ -14,5 +14,5 @@ public class MainActivity extends AppCompatActivity {
 public void toto(){
 
 }
-    public void Emy(){}
+    public void Emy1(){}
 }
