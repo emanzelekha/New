@@ -15,4 +15,7 @@ public void toto(){
 
 }
     public void Emy1(){}
+    public void Emy1(int x){}
+    public void ahmed(){}
+    public void ahmed(int x){}
 }
